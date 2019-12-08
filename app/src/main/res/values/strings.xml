@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Space</string>
+    <string name="welcome_to_space">Welcome to Space</string>
+    <string name="start">start</string>
+    <string name="high_score">High score</string>
+    <string name="retry">Retry?</string>
+    <string name="yes">Yes</string>
+    <string name="exit">Exit to menu</string>
+    <string name="shoot">Shoot</string>
+    <string name="move_left">Left Move</string>
+    <string name="move_right">Right</string>
+    <string name="help">Help!</string>
+    <string name="left"><![CDATA[Нижний левый угол -> движение на лево //
+Нижний правый угол -> движение на право //
+Вся остальная площадь -> огонь]]></string>
+</resources>
