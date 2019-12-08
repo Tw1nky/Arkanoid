@@ -28,7 +28,7 @@
         android:background="@color/colorBackground" />
 
     <Button
-        android:id="@+id/exit"
+        android:id="@+id/exits"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_below="@+id/nameGame"

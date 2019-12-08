@@ -17,7 +17,7 @@ class Help : AppCompatActivity() {
             WindowManager.LayoutParams.FLAG_FULLSCREEN
         )
 
-        exit.setOnClickListener {
+        exits.setOnClickListener {
             val intent = Intent(this@Help, MainActivity::class.java)
             startActivity(intent)
         }
